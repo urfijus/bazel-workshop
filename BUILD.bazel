@@ -1,0 +1,11 @@
+# Root package.
+
+alias(
+    name = "lab01_report_broken",
+    actual = "//labs/lab01_select_platform/broken:report",
+)
+
+alias(
+    name = "lab01_report_solution",
+    actual = "//labs/lab01_select_platform/solution:report",
+)

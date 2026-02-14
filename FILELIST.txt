@@ -1,0 +1,9 @@
+.bazelversion
+.devcontainer/devcontainer.json
+FILELIST.txt
+README.md
+WORKSPACE
+labs/lab01_select_platform/BUILD.bazel
+labs/lab01_select_platform/README.md
+platforms/BUILD.bazel
+scripts/workshop.sh
